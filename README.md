@@ -1,2 +1,4 @@
 # masai_project
-This is my First MASAI Project.
+Project Name: Tic Tac Toe
+Language: Python
+
